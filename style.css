@@ -172,6 +172,6 @@ body {
 }
 
 .button:hover {
-  background-color: hsla(256, 72%, 46%, 1);
+  background: linear-gradient(0deg, hsl(241, 77%, 42%), hsl(252, 100%, 67%));
   cursor: pointer;
 }
