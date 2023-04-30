@@ -9,8 +9,8 @@ body {
 }
 .container {
   display: flex;
-  align-items: flex-start;
   justify-content: flex-start;
+/*   min-height:68vh; */
   margin: 100px auto;
   gap: 40px;
   width: 700px;
